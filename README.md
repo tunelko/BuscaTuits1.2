@@ -5,21 +5,6 @@ This webapp search for an input topic and lists tweets with 'pulldown to refresh
 ## LungoJS modifications:
 
 - Implemented prepend method to iScroll.
-  
-  /**
-     * Prepend <markup>; content to iScroll instance
-     *
-     * @method append
-     *
-     * @param {string} Id of the container scroll.
-     * @param {string} Markup content
-     */
-    var prepend = function(id, content) {
-        var container = _getContainer(id);
-        container.prepend(content);
-
-        _render(id);
-    };
 
 ## About Lungo:
 
