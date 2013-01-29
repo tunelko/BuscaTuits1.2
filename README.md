@@ -1,4 +1,4 @@
-# BuscaTuits1.2 (LungoJS 1.2 version)
+# BuscaTuits1.2 (LungoJS 1.2 version is deprecated, coming soon version 2.0 with lungojs 2.1)
 Another twitter search webapp with pulldown to refresh ;-). LungoJS is a fantastic pure HTML5 framework to work with and oriented to mobile devices. 
 This webapp search for an input topic and lists tweets with 'pulldown to refresh' on LungoJS v1.2.
 
